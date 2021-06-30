@@ -1,2 +1,2 @@
 # IntegerManipulations
-Calculation of days, hours, minutes and seconds in all amount seconds.
+Converter of seconds to whole days, hours, minutes and rest of seconds.
